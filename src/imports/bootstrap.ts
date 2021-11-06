@@ -1,2 +1,2 @@
-// import 'bootstrap/dist/css/bootstrap.css' // external import in index.html
+import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap/dist/js/bootstrap'
